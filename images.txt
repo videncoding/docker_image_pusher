@@ -1,6 +1,5 @@
 alpine
 python:alpine3.19
---platform=linux/amd64 redis:7.0.15-alpine3.20
 nginx
 nginx:1.27.0
 --platform=linux/arm64 nginx:1.27.0-alpine
