@@ -5,3 +5,5 @@ nginx:1.27.0
 --platform=linux/arm64 nginx:1.27.0-alpine
 tomcat
 --platform=linux/arm64 tomcat
+elasticsearch:7.17.21
+kibana:7.17.21
