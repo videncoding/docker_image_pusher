@@ -1,11 +1,1 @@
-alpine
-python:alpine3.19
-nginx
-nginx:1.27.0
---platform=linux/arm64 nginx:1.27.0-alpine
-tomcat
---platform=linux/arm64 tomcat
-elasticsearch:7.17.21
-kibana:7.17.21
-mirrorgooglecontainers/defaultbackend-arm64:1.4
-mysql:8.0.37
+kubesphere/pause:3.6 --platform arm64
