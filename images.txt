@@ -1,2 +1,2 @@
---platform linux/arm64 coredns/coredns:1.8.6
+--platform linux/arm64 kubesphere/k8s-dns-node-cache:1.15.12
 
