@@ -1,1 +1,1 @@
---platform linux/arm64 kubesphere/pause:3.6 
+--platform linux/arm64 kubesphere/kube-apiserver:v1.23.10
