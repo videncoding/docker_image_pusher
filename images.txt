@@ -1,2 +1,2 @@
---platform linux/arm64 kubesphere/kube-proxy:v1.23.10
+--platform linux/arm64 coredns/coredns:1.8.6
 
