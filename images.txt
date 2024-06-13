@@ -7,3 +7,4 @@ tomcat
 --platform=linux/arm64 tomcat
 elasticsearch:7.17.21
 kibana:7.17.21
+mirrorgooglecontainers/defaultbackend-arm64:1.4
