@@ -8,3 +8,4 @@ tomcat
 elasticsearch:7.17.21
 kibana:7.17.21
 mirrorgooglecontainers/defaultbackend-arm64:1.4
+mysql:8.0.37
