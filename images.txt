@@ -1,1 +1,1 @@
-kubesphere/pause:3.6 --platform arm64
+--platform linux/arm64 kubesphere/pause:3.6 
